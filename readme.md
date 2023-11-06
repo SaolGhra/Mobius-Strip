@@ -10,7 +10,6 @@ The Mobius Strip generator creates a visual representation of a Mobius Strip, a 
 
 To run this program, you'll need:
 - Python (3.x recommended)
-- Pygame library
 
 ## Setup
 
